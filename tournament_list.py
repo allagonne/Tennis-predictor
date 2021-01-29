@@ -22,15 +22,20 @@ for i in tqdm(range(2, 13)):
             tournaments_data.write(tournaments_name + ',')
             tournaments_court = driver.find_element_by_xpath('//*[@id="contentAccordionWrapper"]/div['+str(i)+']/div[2]/div/table/tbody/tr['+str(j)+']/td[3]/table/tbody/tr/td[2]').text
             tournaments_data.write(tournaments_court + ',')
-            src_point = driver.find_element_by_xpath('//*[@id="contentAccordionWrapper"]/div['+str(i)+']/div[2]/div/table/tbody/tr['+str(j)+']/td[1]/img').get_attribute("src")
-            tournaments_point = src_point[len(src_point)-7:len(src_point)-4]
-            if  tournaments_point == 'lam':
-                tournaments_point = '2000'
-            elif tournaments_point == 'als':
-                tournaments_point = '1500'
-            elif tournaments_point.isdigit()==False:
-                tournaments_point="Not relevant"
-            tournaments_data.write(tournaments_point + '\n')
-            driver.close()
+            if i==8 and j ==7:
+                tournaments_data.write('\n')
+            else:
+                src_point = driver.find_element_by_xpath('//*[@id="contentAccordionWrapper"]/div['+str(i)+']/div[2]/div/table/tbody/tr['+str(j)+']/td[1]/img').get_attribute("src")
+                tournaments_point = src_point[len(src_point)-7:len(src_point)-4]
+                if  tournaments_point == '000':
+                    tournaments_point = '1000'
+                elif  tournaments_point == 'lam':
+                    tournaments_point = '2000'
+                elif tournaments_point == 'als':
+                    tournaments_point = '1500'
+                elif tournaments_point.isdigit()==False:
+                    tournaments_point="Not relevant"
+                tournaments_data.write(tournaments_point + '\n')
+                driver.close()
         except NoSuchElementException:
             break
