@@ -1,0 +1,56 @@
+/*This is the style for all webpages*/
+/*This contains styles, fonts, themes for titles, headers, text body, etc..*/ 
+*{font-family:verdana;}
+body{
+	background-color:#D7D9D7;
+	color:#AD0A5C;
+	/* same color as the title */
+	height:auto;							
+	line-height:2em;
+	text-align:justify;
+	padding-left:180px;
+	padding-right:100px;
+	padding-bottom:200px;
+	padding-top:0px;
+	border-width:1px;
+	margin-top:0px;
+	font-size:12pt
+}
+h1{
+	font-weight:bolder;
+	font-size:18pt;
+	color:#AD0A5C;
+	text-decoration:underline;
+	text-align:center;
+}
+
+h2{
+	font-weight:bold;
+	font-size:14pt;
+	font-style:italic;
+	color:#AD0A5C;
+}	
+.box-menu{
+	float: right;
+	width: 180px;
+	border: 3px solid #AD0A5C;
+	background-color: white;
+	padding-left: 3em;
+	padding-right: 3em;
+	margin: 0em;
+	font-size:12pt
+}
+.main-content{
+	float: left;
+	width: 90%;
+	background-color: white;
+	padding-left: 1em;
+	padding-right:0em
+}
+.instruction{
+	font-style:italic;
+	text-align:left
+}
+.bold{
+	font-weight:bold
+}
