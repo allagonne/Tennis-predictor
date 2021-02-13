@@ -21,8 +21,8 @@ list_places = []
 list_dates = []
 
 ## generating webpages
-tournament_date_list = [str(year) for year in range(2021, 2020, -1)]
-mywebpage_archive_list = ['https://www.atptour.com/en/scores/results-archive?year={}'.format(tournament_date_list[i]) for i in range(2021-2020)]
+tournament_date_list = [str(year) for year in range(2021, 2012, -1)]
+mywebpage_archive_list = ['https://www.atptour.com/en/scores/results-archive?year={}'.format(tournament_date_list[i]) for i in range(2021-2012)]
 
 ## webscraping archives
 #tournament_date_list = [str(year) for year in range(2020, 2010, -1)]
@@ -70,6 +70,6 @@ for k in tqdm(range(len(tournament_date_list))): ## decrementing through years
 Tennis_data_collection = open("../Tennis-predictor/Data/tourneys_tests.csv", 'w')
 Tennis_data_collection.write('Id' + ',' + 'Tournaments' + ','  + 'City' + ',' + 'Country' + ',' + 'Date' + ',' + 'Court' + ',' + 'ATP'+'\n')
 [Tennis_data_collection.write(str(id+1) + ',' + list_tournaments[id][0] + ',' + list_tournaments[id][1] + ',' + list_tournaments[id][2] 
-+ ',' + list_tournaments[id][3] + ',' + list_tournaments[id][4] + ',' + list_tournaments[id][5] + ',' + '\n') for id in range(len(list_tournaments))]
++ ',' + list_tournaments[id][3] + ',' + list_tournaments[id][4] + ',' + list_tournaments[id][5] + '\n') for id in range(len(list_tournaments))]
 Tennis_data_collection.close()
 
