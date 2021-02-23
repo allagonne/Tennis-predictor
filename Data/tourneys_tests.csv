@@ -1,0 +1,615 @@
+Id,Tournaments,City,Country,Date,Court,ATP
+1,Delray Beach Open by VITACOST.com,Delray Beach,United States,2021.01.07,Outdoor Hard,250
+2,Antalya Open,Antalya,Turkey,2021.01.07,Outdoor Hard,250
+3,ASB Classic (Cancelled),Auckland,New Zealand,2021.01.11,Outdoor Hard,250
+4,Great Ocean Road Open,Melbourne,Australia,2021.02.01,Outdoor Hard,250
+5,Murray River Open,Melbourne,Australia,2021.02.01,Outdoor Hard,250
+6,Tata Open Maharashtra (Postponed),Pune,India,2021.02.01,Outdoor Hard,250
+7,ATP Cup,Melbourne,Australia,2021.02.02,Outdoor Hard,Not relevant
+8,Australian Open,Melbourne,Australia,2021.02.08,Outdoor Hard,2000
+9,New York Open (Cancelled),New York,United States,2021.02.08,Indoor Hard,250
+10,Rio Open presented by Claro (Postponed),Rio de Janeiro,Brazil,2021.02.15,Outdoor Clay,500
+11,Cordoba Open,Cordoba,Argentina,2021.02.22,Outdoor Clay,250
+12,Singapore Tennis Open,Singapore,Singapore,2021.02.22,Indoor Hard,250
+13,Open Sud de France,Montpellier,France,2021.02.22,Indoor Hard,250
+14,ABN AMRO World Tennis Tournament,Rotterdam,Netherlands,2021.03.01,Indoor Hard,500
+15,Argentina Open,Buenos Aires,Argentina,2021.03.01,Outdoor Clay,250
+16,Qatar ExxonMobil Open,Doha,Qatar,2021.03.08,Outdoor Hard,250
+17,Open 13 Provence,Marseille,France,2021.03.08,Indoor Hard,250
+18,Chile Dove Men+Care Open,Santiago,Chile,2021.03.08,Outdoor Clay,250
+19,BNP Paribas Open (Postponed),Indian Wells,United States,2021.03.11,Outdoor Hard,1000
+20,Dubai Duty Free Tennis Championships,Dubai,United Arab Emirates,2021.03.14,Outdoor Hard,500
+21,Abierto Mexicano Telcel presentado por HSBC,Acapulco,Mexico,2021.03.15,Outdoor Hard,500
+22,Miami Open presented by Itau,Miami,United States,2021.03.24,Outdoor Hard,1000
+23,Grand Prix Hassan II,Marrakech,Morocco,2021.04.05,Outdoor Clay,250
+24,AnyTech365 Andalucia Open,Marbella,Spain,2021.04.05,Outdoor Clay,250
+25,Fayez Sarofim & Co. U.S. Men's Clay Court Championship (Cancelled),Houston,United States,2021.04.05,Outdoor Clay,250
+26,Rolex Monte-Carlo Masters,Monte Carlo,Monaco,2021.04.11,Outdoor Clay,1000
+27,Barcelona Open Banc Sabadell,Barcelona,Spain,2021.04.19,Outdoor Clay,500
+28,Serbia Open,Belgrade,Serbia,2021.04.19,Outdoor Clay,250
+29,BMW Open,Munich,Germany,2021.04.26,Outdoor Clay,250
+30,Millennium Estoril Open,Estoril,Portugal,2021.04.26,Outdoor Clay,250
+31,Mutua Madrid Open,Madrid,Spain,2021.05.02,Outdoor Clay,1000
+32,Internazionali BNL d'Italia,Rome,Italy,2021.05.09,Outdoor Clay,1000
+33,Gonet Geneva Open,Geneva,Switzerland,2021.05.16,Outdoor Clay,250
+34,Open Parc Auvergne-Rhone-Alpes Lyon,Lyon,France,2021.05.16,Outdoor Clay,250
+35,Roland Garros,Paris,France,2021.05.23,Outdoor Clay,2000
+36,Libema Open,'s-Hertogenbosch,Netherlands,2021.06.07,Outdoor Grass,250
+37,MercedesCup,Stuttgart,Germany,2021.06.07,Outdoor Grass,250
+38,Cinch Championships,London,Great Britain,2021.06.14,Outdoor Grass,500
+39,NOVENTI OPEN,Halle,Germany,2021.06.14,Outdoor Grass,500
+40,Mallorca Championships,Mallorca,Spain,2021.06.20,Outdoor Grass,250
+41,Eastbourne International,Eastbourne,Great Britain,2021.06.21,Outdoor Grass,250
+42,Wimbledon,London,Great Britain,2021.06.28,Outdoor Grass,2000
+43,Hall of Fame Open,Newport,United States,2021.07.12,Outdoor Grass,250
+44,Hamburg European Open,Hamburg,Germany,2021.07.12,Outdoor Clay,500
+45,Nordea Open,Bastad,Sweden,2021.07.12,Outdoor Clay,250
+46,Abierto de Tenis Mifel presentado por Cinemex,Los Cabos,Mexico,2021.07.19,Outdoor Hard,250
+47,Plava Laguna Croatia Open Umag,Umag,Croatia,2021.07.19,Outdoor Clay,250
+48,Swiss Open Gstaad,Gstaad,Switzerland,2021.07.19,Outdoor Clay,250
+49,Tokyo Olympics,Tokyo,Japan,2021.07.24,Outdoor Hard,Not relevant
+50,Generali Open,Kitzbuhel,Austria,2021.07.26,Outdoor Clay,250
+51,Truist Atlanta Open,Atlanta,United States,2021.07.26,Outdoor Hard,250
+52,Citi Open,Washington,United States,2021.08.02,Outdoor Hard,500
+53,National Bank Open Presented by Rogers,Toronto,Canada,2021.08.09,Outdoor Hard,1000
+54,Western & Southern Open,Cincinnati,United States,2021.08.15,Outdoor Hard,1000
+55,Winston-Salem Open,Winston-Salem,United States,2021.08.22,Outdoor Hard,250
+56,US Open,New York,United States,2021.08.30,Outdoor Hard,2000
+57,Moselle Open,Metz,France,2021.09.20,Indoor Hard,250
+58,St. Petersburg Open,St. Petersburg,Russia,2021.09.20,Indoor Hard,250
+59,Laver Cup,Boston,United States,2021.09.24,Indoor Hard,Not relevant
+60,Chengdu Open,Chengdu,China,2021.09.27,Outdoor Hard,250
+61,Sofia Open,Sofia,Bulgaria,2021.09.27,Indoor Hard,250
+62,Zhuhai Championships,Zhuhai,China,2021.09.27,Outdoor Hard,250
+63,China Open,Beijing,China,2021.10.04,Outdoor Hard,500
+64,Rakuten Japan Open Tennis Championships,Tokyo,Japan,2021.10.04,Outdoor Hard,500
+65,Rolex Shanghai Masters,Shanghai,China,2021.10.10,Outdoor Hard,1000
+66,European Open,Antwerp,Belgium,2021.10.18,Indoor Hard,250
+67,Stockholm Open,Stockholm,Sweden,2021.10.18,Indoor Hard,250
+68,VTB Kremlin Cup,Moscow,Russia,2021.10.18,Indoor Hard,250
+69,Erste Bank Open,Vienna,Austria,2021.10.25,Indoor Hard,500
+70,Swiss Indoors Basel,Basel,Switzerland,2021.10.25,Indoor Hard,500
+71,Rolex Paris Masters,Paris,France,2021.11.01,Indoor Hard,1000
+72,Next Gen ATP Finals,Milan,Italy,2021.11.09,Indoor Hard,Not relevant
+73,Nitto ATP Finals,Turin,Italy,2021.11.14,Indoor Hard,1500
+74,ATP Cup,Brisbane/Perth/Sydney,Australia,2020.01.03,Outdoor Hard,Not relevant
+75,Doha,Doha,Qatar,2020.01.06,Outdoor Hard,250
+76,Adelaide,Adelaide,Australia,2020.01.12,Outdoor Hard,250
+77,Auckland,Auckland,New Zealand,2020.01.13,Outdoor Hard,250
+78,Australian Open,Melbourne,Australia,2020.01.20,Outdoor Hard,2000
+79,Cordoba,Cordoba,Argentina,2020.02.03,Outdoor Clay,250
+80,Pune,Pune,India,2020.02.03,Outdoor Hard,250
+81,Montpellier,Montpellier,France,2020.02.03,Indoor Hard,250
+82,Rotterdam,Rotterdam,Netherlands,2020.02.10,Indoor Hard,500
+83,New York,New York,United States,2020.02.10,Indoor Hard,250
+84,Buenos Aires,Buenos Aires,Argentina,2020.02.10,Outdoor Clay,250
+85,Rio de Janeiro,Rio de Janeiro,Brazil,2020.02.17,Outdoor Clay,500
+86,Marseille,Marseille,France,2020.02.17,Indoor Hard,250
+87,Delray Beach,Delray Beach,United States,2020.02.17,Outdoor Hard,250
+88,Dubai,Dubai,United Arab Emirates,2020.02.24,Outdoor Hard,500
+89,Acapulco,Acapulco,Mexico,2020.02.24,Outdoor Hard,500
+90,Santiago,Santiago,Chile,2020.02.24,Outdoor Clay,250
+91,ATP Masters 1000 Indian Wells (Suspended),Indian Wells,United States,2020.03.12,Outdoor Hard,1000
+92,ATP Masters 1000 Miami (Suspended),Miami,United States,2020.03.25,Outdoor Hard,1000
+93,Houston (Suspended),Houston,United States,2020.04.06,Outdoor Clay,250
+94,Marrakech (Suspended),Marrakech,Morocco,2020.04.06,Outdoor Clay,250
+95,ATP Masters 1000 Monte Carlo (Suspended),Monte Carlo,Monaco,2020.04.12,Outdoor Clay,1000
+96,Barcelona (Suspended),Barcelona,Spain,2020.04.20,Outdoor Clay,500
+97,Budapest (Suspended),Budapest,Hungary,2020.04.20,Outdoor Clay,250
+98,Estoril (Suspended),Estoril,Portugal,2020.04.27,Outdoor Clay,250
+99,Munich (Suspended),Munich,Germany,2020.04.27,Outdoor Clay,250
+100,Geneva (Suspended),Geneva,Switzerland,2020.05.17,Outdoor Clay,250
+101,Lyon (Suspended),Lyon,France,2020.05.17,Outdoor Clay,250
+102,Stuttgart (Suspended),Stuttgart,Germany,2020.06.08,Outdoor Grass,250
+103,'s-Hertogenbosch (Suspended),'s-Hertogenbosch,Netherlands,2020.06.08,Outdoor Grass,250
+104,Halle (Suspended),Halle,Germany,2020.06.15,Outdoor Grass,500
+105,London / Queen's Club (Suspended),London,Great Britain,2020.06.15,Outdoor Grass,500
+106,Mallorca (Suspended),Mallorca,Spain,2020.06.21,Outdoor Grass,250
+107,Eastbourne (Suspended),Eastbourne,Great Britain,2020.06.22,Outdoor Grass,250
+108,Wimbledon (Suspended),London,Great Britain,2020.06.29,Outdoor Grass,2000
+109,Newport (Suspended),Newport,United States,2020.07.13,Outdoor Grass,250
+110,Bastad (Suspended),Bastad,Sweden,2020.07.13,Outdoor Clay,250
+111,Los Cabos (Suspended),Los Cabos,Mexico,2020.07.20,Outdoor Hard,250
+112,Gstaad (Suspended),Gstaad,Switzerland,2020.07.20,Outdoor Clay,250
+113,Umag (Suspended),Umag,Croatia,2020.07.20,Outdoor Clay,250
+114,Tokyo Olympics (Suspended),Tokyo,Japan,2020.07.25,Outdoor Hard,Not relevant
+115,Atlanta (Suspended),Atlanta,United States,2020.07.27,Outdoor Hard,250
+116,ATP Masters 1000 Canada (Suspended),Toronto,Canada,2020.08.10,Outdoor Hard,1000
+117,Washington (Suspended),Washington,United States,2020.08.14,Outdoor Hard,500
+118,ATP Masters 1000 Cincinnati,New York,United States,2020.08.22,Outdoor Hard,1000
+119,Winston-Salem (Suspended),Winston-Salem,United States,2020.08.23,Outdoor Hard,250
+120,US Open,New York,United States,2020.08.31,Outdoor Hard,2000
+121,Kitzbuhel,Kitzbuhel,Austria,2020.09.08,Outdoor Clay,250
+122,ATP Masters 1000 Madrid (Suspended),Madrid,Spain,2020.09.13,Outdoor Clay,1000
+123,ATP Masters 1000 Rome,Rome,Italy,2020.09.14,Outdoor Clay,1000
+124,Hamburg,Hamburg,Germany,2020.09.21,Outdoor Clay,500
+125,Metz (Suspended),Metz,France,2020.09.21,Indoor Hard,250
+126,Laver Cup (Suspended),Boston,United States,2020.09.25,Indoor Hard,Not relevant
+127,Roland Garros,Paris,France,2020.09.27,Outdoor Clay,2000
+128,Chengdu (Suspended),Chengdu,China,2020.09.28,Outdoor Hard,250
+129,Zhuhai (Suspended),Zhuhai,China,2020.09.28,Outdoor Hard,250
+130,Beijing (Suspended),Beijing,China,2020.10.05,Outdoor Hard,500
+131,Tokyo (Suspended),Tokyo,Japan,2020.10.05,Outdoor Hard,500
+132,ATP Masters 1000 Shanghai (Suspended),Shanghai,China,2020.10.11,Outdoor Hard,1000
+133,St. Petersburg,St. Petersburg,Russia,2020.10.12,Indoor Hard,500
+134,Cologne 1,Cologne,Germany,2020.10.12,Indoor Hard,250
+135,Sardinia,Sardinia,Italy,2020.10.12,Outdoor Clay,250
+136,Stockholm (Suspended),Stockholm,Sweden,2020.10.19,Indoor Hard,250
+137,Moscow (Suspended),Moscow,Russia,2020.10.19,Indoor Hard,250
+138,Antwerp,Antwerp,Belgium,2020.10.19,Indoor Hard,250
+139,Cologne 2,Cologne,Germany,2020.10.19,Indoor Hard,250
+140,Basel (Suspended),Basel,Switzerland,2020.10.26,Indoor Hard,500
+141,Vienna,Vienna,Austria,2020.10.26,Indoor Hard,500
+142,Nur-Sultan,Nur-Sultan,Kazakhstan,2020.10.26,Indoor Hard,250
+143,ATP Masters 1000 Paris,Paris,France,2020.11.02,Indoor Hard,1000
+144,Sofia,Sofia,Bulgaria,2020.11.08,Indoor Hard,250
+145,Next Gen ATP Finals (Suspended),Milan,Italy,2020.11.10,Indoor Hard,Not relevant
+146,Nitto ATP Finals,London,Great Britain,2020.11.15,Indoor Hard,1500
+147,Doha,Doha,Qatar,2018.12.31,Outdoor Hard,250
+148,Brisbane,Brisbane,Australia,2018.12.31,Outdoor Hard,250
+149,Pune,Pune,India,2018.12.31,Outdoor Hard,250
+150,Sydney,Sydney,Australia,2019.01.06,Outdoor Hard,250
+151,Auckland,Auckland,New Zealand,2019.01.07,Outdoor Hard,250
+152,Australian Open,Melbourne,Australia,2019.01.14,Outdoor Hard,2000
+153,Cordoba,Cordoba,Argentina,2019.02.04,Outdoor Clay,250
+154,Montpellier,Montpellier,France,2019.02.04,Indoor Hard,250
+155,Sofia,Sofia,Bulgaria,2019.02.04,Indoor Hard,250
+156,Rotterdam,Rotterdam,Netherlands,2019.02.11,Indoor Hard,500
+157,New York,New York,United States,2019.02.11,Indoor Hard,250
+158,Buenos Aires,Buenos Aires,Argentina,2019.02.11,Outdoor Clay,250
+159,Rio de Janeiro,Rio de Janeiro,Brazil,2019.02.18,Outdoor Clay,500
+160,Marseille,Marseille,France,2019.02.18,Indoor Hard,250
+161,Delray Beach,Delray Beach,United States,2019.02.18,Outdoor Hard,250
+162,Dubai,Dubai,United Arab Emirates,2019.02.25,Outdoor Hard,500
+163,Acapulco,Acapulco,Mexico,2019.02.25,Outdoor Hard,500
+164,Sao Paulo,Sao Paulo,Brazil,2019.02.25,Indoor Clay,250
+165,ATP Masters 1000 Indian Wells,Indian Wells,United States,2019.03.07,Outdoor Hard,1000
+166,ATP Masters 1000 Miami,Miami,United States,2019.03.20,Outdoor Hard,1000
+167,Houston,Houston,United States,2019.04.08,Outdoor Clay,250
+168,Marrakech,Marrakech,Morocco,2019.04.08,Outdoor Clay,250
+169,ATP Masters 1000 Monte Carlo,Monte Carlo,Monaco,2019.04.14,Outdoor Clay,1000
+170,Barcelona,Barcelona,Spain,2019.04.22,Outdoor Clay,500
+171,Budapest,Budapest,Hungary,2019.04.22,Outdoor Clay,250
+172,Estoril,Estoril,Portugal,2019.04.29,Outdoor Clay,250
+173,Munich,Munich,Germany,2019.04.29,Outdoor Clay,250
+174,ATP Masters 1000 Madrid,Madrid,Spain,2019.05.05,Outdoor Clay,1000
+175,ATP Masters 1000 Rome,Rome,Italy,2019.05.12,Outdoor Clay,1000
+176,Geneva,Geneva,Switzerland,2019.05.19,Outdoor Clay,250
+177,Lyon,Lyon,France,2019.05.19,Outdoor Clay,250
+178,Roland Garros,Paris,France,2019.05.26,Outdoor Clay,2000
+179,Stuttgart,Stuttgart,Germany,2019.06.10,Outdoor Grass,250
+180,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2019.06.10,Outdoor Grass,250
+181,Halle,Halle,Germany,2019.06.17,Outdoor Grass,500
+182,London / Queen's Club,London,Great Britain,2019.06.17,Outdoor Grass,500
+183,Antalya,Antalya,Turkey,2019.06.23,Outdoor Grass,250
+184,Eastbourne,Eastbourne,Great Britain,2019.06.24,Outdoor Grass,250
+185,Wimbledon,London,Great Britain,2019.07.01,Outdoor Grass,2000
+186,Newport,Newport,United States,2019.07.14,Outdoor Grass,250
+187,Bastad,Bastad,Sweden,2019.07.15,Outdoor Clay,250
+188,Umag,Umag,Croatia,2019.07.15,Outdoor Clay,250
+189,Hamburg,Hamburg,Germany,2019.07.22,Outdoor Clay,500
+190,Atlanta,Atlanta,United States,2019.07.22,Outdoor Hard,250
+191,Gstaad,Gstaad,Switzerland,2019.07.22,Outdoor Clay,250
+192,Washington,Washington,United States,2019.07.27,Outdoor Hard,500
+193,Los Cabos,Los Cabos,Mexico,2019.07.29,Outdoor Hard,250
+194,Kitzbuhel,Kitzbuhel,Austria,2019.07.29,Outdoor Clay,250
+195,ATP Masters 1000 Canada,Montreal,Canada,2019.08.05,Outdoor Hard,1000
+196,ATP Masters 1000 Cincinnati,Cincinnati,United States,2019.08.11,Outdoor Hard,1000
+197,Winston-Salem,Winston-Salem,United States,2019.08.18,Outdoor Hard,250
+198,US Open,New York,United States,2019.08.26,Outdoor Hard,2000
+199,St. Petersburg,St. Petersburg,Russia,2019.09.15,Indoor Hard,250
+200,Metz,Metz,France,2019.09.15,Indoor Hard,250
+201,Laver Cup,Geneva,Switzerland,2019.09.20,Indoor Hard,Not relevant
+202,Chengdu,Chengdu,China,2019.09.23,Outdoor Hard,250
+203,Zhuhai,Zhuhai,China,2019.09.23,Outdoor Hard,250
+204,Beijing,Beijing,China,2019.09.30,Outdoor Hard,500
+205,Tokyo,Tokyo,Japan,2019.09.30,Outdoor Hard,500
+206,ATP Masters 1000 Shanghai,Shanghai,China,2019.10.06,Outdoor Hard,1000
+207,Moscow,Moscow,Russia,2019.10.14,Indoor Hard,250
+208,Antwerp,Antwerp,Belgium,2019.10.14,Indoor Hard,250
+209,Stockholm,Stockholm,Sweden,2019.10.14,Indoor Hard,250
+210,Vienna,Vienna,Austria,2019.10.21,Indoor Hard,500
+211,Basel,Basel,Switzerland,2019.10.21,Indoor Hard,500
+212,ATP Masters 1000 Paris,Paris,France,2019.10.28,Indoor Hard,1000
+213,Next Gen ATP Finals,Milan,Italy,2019.11.05,Indoor Hard,Not relevant
+214,Nitto ATP Finals,London,Great Britain,2019.11.10,Indoor Hard,1500
+215,Brisbane,Brisbane,Australia,2017.12.31,Outdoor Hard,250
+216,Doha,Doha,Qatar,2018.01.01,Outdoor Hard,250
+217,Pune,Pune,India,2018.01.01,Outdoor Hard,250
+218,Sydney,Sydney,Australia,2018.01.07,Outdoor Hard,250
+219,Auckland,Auckland,New Zealand,2018.01.08,Outdoor Hard,250
+220,Australian Open,Melbourne,Australia,2018.01.15,Outdoor Hard,2000
+221,Montpellier,Montpellier,France,2018.02.05,Indoor Hard,250
+222,Quito,Quito,Ecuador,2018.02.05,Outdoor Clay,250
+223,Sofia,Sofia,Bulgaria,2018.02.05,Indoor Hard,250
+224,Rotterdam,Rotterdam,Netherlands,2018.02.12,Indoor Hard,500
+225,New York,New York,United States,2018.02.12,Indoor Hard,250
+226,Buenos Aires,Buenos Aires,Argentina,2018.02.12,Outdoor Clay,250
+227,Rio de Janeiro,Rio de Janeiro,Brazil,2018.02.19,Outdoor Clay,500
+228,Marseille,Marseille,France,2018.02.19,Indoor Hard,250
+229,Delray Beach,Delray Beach,United States,2018.02.19,Outdoor Hard,250
+230,Dubai,Dubai,United Arab Emirates,2018.02.26,Outdoor Hard,500
+231,Acapulco,Acapulco,Mexico,2018.02.26,Outdoor Hard,500
+232,Sao Paulo,Sao Paulo,Brazil,2018.02.26,Indoor Clay,250
+233,ATP Masters 1000 Indian Wells,Indian Wells,United States,2018.03.08,Outdoor Hard,1000
+234,ATP Masters 1000 Miami,Miami,United States,2018.03.21,Outdoor Hard,1000
+235,Houston,Houston,United States,2018.04.09,Outdoor Clay,250
+236,Marrakech,Marrakech,Morocco,2018.04.09,Outdoor Clay,250
+237,ATP Masters 1000 Monte Carlo,Monte Carlo,Monaco,2018.04.15,Outdoor Clay,1000
+238,Barcelona,Barcelona,Spain,2018.04.23,Outdoor Clay,500
+239,Budapest,Budapest,Hungary,2018.04.23,Outdoor Clay,250
+240,Estoril,Estoril,Portugal,2018.04.30,Outdoor Clay,250
+241,Munich,Munich,Germany,2018.04.30,Outdoor Clay,250
+242,Istanbul,Istanbul,Turkey,2018.04.30,Outdoor Clay,250
+243,ATP Masters 1000 Madrid,Madrid,Spain,2018.05.06,Outdoor Clay,1000
+244,ATP Masters 1000 Rome,Rome,Italy,2018.05.13,Outdoor Clay,1000
+245,Lyon,Lyon,France,2018.05.20,Outdoor Clay,250
+246,Geneva,Geneva,Switzerland,2018.05.21,Outdoor Clay,250
+247,Roland Garros,Paris,France,2018.05.27,Outdoor Clay,2000
+248,Stuttgart,Stuttgart,Germany,2018.06.11,Outdoor Grass,250
+249,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2018.06.11,Outdoor Grass,250
+250,Halle,Halle,Germany,2018.06.18,Outdoor Grass,500
+251,London / Queen's Club,London,Great Britain,2018.06.18,Outdoor Grass,500
+252,Antalya,Antalya,Turkey,2018.06.24,Outdoor Grass,250
+253,Eastbourne,Eastbourne,Great Britain,2018.06.25,Outdoor Grass,250
+254,Wimbledon,London,Great Britain,2018.07.02,Outdoor Grass,2000
+255,Newport,Newport,United States,2018.07.16,Outdoor Grass,250
+256,Bastad,Bastad,Sweden,2018.07.16,Outdoor Clay,250
+257,Umag,Umag,Croatia,2018.07.16,Outdoor Clay,250
+258,Hamburg,Hamburg,Germany,2018.07.23,Outdoor Clay,500
+259,Atlanta,Atlanta,United States,2018.07.23,Outdoor Hard,250
+260,Gstaad,Gstaad,Switzerland,2018.07.23,Outdoor Clay,250
+261,Washington,Washington,United States,2018.07.30,Outdoor Hard,500
+262,Los Cabos,Los Cabos,Mexico,2018.07.30,Outdoor Hard,250
+263,Kitzbuhel,Kitzbuhel,Austria,2018.07.30,Outdoor Clay,250
+264,ATP Masters 1000 Canada,Toronto,Canada,2018.08.06,Outdoor Hard,1000
+265,ATP Masters 1000 Cincinnati,Cincinnati,United States,2018.08.12,Outdoor Hard,1000
+266,Winston-Salem,Winston-Salem,United States,2018.08.19,Outdoor Hard,250
+267,US Open,New York,United States,2018.08.27,Outdoor Hard,2000
+268,St. Petersburg,St. Petersburg,Russia,2018.09.17,Indoor Hard,250
+269,Metz,Metz,France,2018.09.17,Indoor Hard,250
+270,Laver Cup,Chicago,United States,2018.09.21,Indoor Hard,Not relevant
+271,Chengdu,Chengdu,China,2018.09.24,Outdoor Hard,250
+272,Shenzhen,Shenzhen,China,2018.09.24,Outdoor Hard,250
+273,Beijing,Beijing,China,2018.10.01,Outdoor Hard,500
+274,Tokyo,Tokyo,Japan,2018.10.01,Indoor Hard,500
+275,ATP Masters 1000 Shanghai,Shanghai,China,2018.10.07,Outdoor Hard,1000
+276,Moscow,Moscow,Russia,2018.10.15,Indoor Hard,250
+277,Antwerp,Antwerp,Belgium,2018.10.15,Indoor Hard,250
+278,Stockholm,Stockholm,Sweden,2018.10.15,Indoor Hard,250
+279,Vienna,Vienna,Austria,2018.10.22,Indoor Hard,500
+280,Basel,Basel,Switzerland,2018.10.22,Indoor Hard,500
+281,ATP Masters 1000 Paris,Paris,France,2018.10.29,Indoor Hard,1000
+282,Next Gen ATP Finals,Milan,Italy,2018.11.06,Indoor Hard,Not relevant
+283,Nitto ATP Finals,London,Great Britain,2018.11.11,Indoor Hard,1500
+284,Brisbane,Brisbane,Australia,2017.01.01,Outdoor Hard,250
+285,Doha,Doha,Qatar,2017.01.02,Outdoor Hard,250
+286,Chennai,Chennai,India,2017.01.02,Outdoor Hard,250
+287,Sydney,Sydney,Australia,2017.01.08,Outdoor Hard,250
+288,Auckland,Auckland,New Zealand,2017.01.09,Outdoor Hard,250
+289,Australian Open,Melbourne,Australia,2017.01.16,Outdoor Hard,2000
+290,Montpellier,Montpellier,France,2017.02.06,Indoor Hard,250
+291,Quito,Quito,Ecuador,2017.02.06,Outdoor Clay,250
+292,Sofia,Sofia,Bulgaria,2017.02.06,Indoor Hard,250
+293,Rotterdam,Rotterdam,Netherlands,2017.02.13,Indoor Hard,500
+294,Memphis,Memphis,United States,2017.02.13,Indoor Hard,250
+295,Buenos Aires,Buenos Aires,Argentina,2017.02.13,Outdoor Clay,250
+296,Rio de Janeiro,Rio de Janeiro,Brazil,2017.02.20,Outdoor Clay,500
+297,Marseille,Marseille,France,2017.02.20,Indoor Hard,250
+298,Delray Beach,Delray Beach,United States,2017.02.20,Outdoor Hard,250
+299,Dubai,Dubai,United Arab Emirates,2017.02.27,Outdoor Hard,500
+300,Acapulco,Acapulco,Mexico,2017.02.27,Outdoor Hard,500
+301,Sao Paulo,Sao Paulo,Brazil,2017.02.27,Outdoor Clay,250
+302,ATP Masters 1000 Indian Wells,Indian Wells,United States,2017.03.09,Outdoor Hard,1000
+303,ATP Masters 1000 Miami,Miami,United States,2017.03.22,Outdoor Hard,1000
+304,Houston,Houston,United States,2017.04.10,Outdoor Clay,250
+305,Marrakech,Marrakech,Morocco,2017.04.10,Outdoor Clay,250
+306,ATP Masters 1000 Monte Carlo,Monte Carlo,Monaco,2017.04.16,Outdoor Clay,1000
+307,Barcelona,Barcelona,Spain,2017.04.24,Outdoor Clay,500
+308,Budapest,Budapest,Hungary,2017.04.24,Outdoor Clay,250
+309,Estoril,Estoril,Portugal,2017.05.01,Outdoor Clay,250
+310,Munich,Munich,Germany,2017.05.01,Outdoor Clay,250
+311,Istanbul,Istanbul,Turkey,2017.05.01,Outdoor Clay,250
+312,ATP Masters 1000 Madrid,Madrid,Spain,2017.05.07,Outdoor Clay,1000
+313,ATP Masters 1000 Rome,Rome,Italy,2017.05.14,Outdoor Clay,1000
+314,Geneva,Geneva,Switzerland,2017.05.21,Outdoor Clay,250
+315,Lyon,Lyon,France,2017.05.21,Outdoor Clay,250
+316,Roland Garros,Paris,France,2017.05.28,Outdoor Clay,2000
+317,Stuttgart,Stuttgart,Germany,2017.06.12,Outdoor Grass,250
+318,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2017.06.12,Outdoor Grass,250
+319,Halle,Halle,Germany,2017.06.19,Outdoor Grass,500
+320,London / Queen's Club,London,Great Britain,2017.06.19,Outdoor Grass,500
+321,Antalya,Antalya,Turkey,2017.06.25,Outdoor Grass,250
+322,Eastbourne,Eastbourne,Great Britain,2017.06.26,Outdoor Grass,250
+323,Wimbledon,London,Great Britain,2017.07.03,Outdoor Grass,2000
+324,Newport,Newport,United States,2017.07.17,Outdoor Grass,250
+325,Bastad,Bastad,Sweden,2017.07.17,Outdoor Clay,250
+326,Umag,Umag,Croatia,2017.07.17,Outdoor Clay,250
+327,Hamburg,Hamburg,Germany,2017.07.24,Outdoor Clay,500
+328,Atlanta,Atlanta,United States,2017.07.24,Outdoor Hard,250
+329,Gstaad,Gstaad,Switzerland,2017.07.24,Outdoor Clay,250
+330,Washington,Washington,United States,2017.07.31,Outdoor Hard,500
+331,Los Cabos,Los Cabos,Mexico,2017.07.31,Outdoor Hard,250
+332,Kitzbuhel,Kitzbuhel,Austria,2017.07.31,Outdoor Clay,250
+333,ATP Masters 1000 Canada,Montreal,Canada,2017.08.07,Outdoor Hard,1000
+334,ATP Masters 1000 Cincinnati,Cincinnati,United States,2017.08.13,Outdoor Hard,1000
+335,Winston-Salem,Winston-Salem,United States,2017.08.20,Outdoor Hard,250
+336,US Open,New York,United States,2017.08.28,Outdoor Hard,2000
+337,St. Petersburg,St. Petersburg,Russia,2017.09.18,Indoor Hard,250
+338,Metz,Metz,France,2017.09.18,Indoor Hard,250
+339,Laver Cup,Prague,Czech Republic,2017.09.22,Indoor Hard,Not relevant
+340,Chengdu,Chengdu,China,2017.09.25,Outdoor Hard,250
+341,Shenzhen,Shenzhen,China,2017.09.25,Outdoor Hard,250
+342,Beijing,Beijing,China,2017.10.02,Outdoor Hard,500
+343,Tokyo,Tokyo,Japan,2017.10.02,Outdoor Hard,500
+344,ATP Masters 1000 Shanghai,Shanghai,China,2017.10.08,Outdoor Hard,1000
+345,Moscow,Moscow,Russia,2017.10.16,Indoor Hard,250
+346,Antwerp,Antwerp,Belgium,2017.10.16,Indoor Hard,250
+347,Stockholm,Stockholm,Sweden,2017.10.16,Indoor Hard,250
+348,Vienna,Vienna,Austria,2017.10.23,Indoor Hard,500
+349,Basel,Basel,Switzerland,2017.10.23,Indoor Hard,500
+350,ATP Masters 1000 Paris,Paris,France,2017.10.30,Indoor Hard,1000
+351,Next Gen ATP Finals,Milan,Italy,2017.11.07,Indoor Hard,Not relevant
+352,Nitto ATP Finals,London,Great Britain,2017.11.12,Indoor Hard,1500
+353,Doha,Doha,Qatar,2016.01.04,Outdoor Hard,250
+354,Chennai,Chennai,India,2016.01.04,Outdoor Hard,250
+355,Brisbane,Brisbane,Australia,2016.01.04,Outdoor Hard,250
+356,Auckland,Auckland,New Zealand,2016.01.11,Outdoor Hard,250
+357,Sydney,Sydney,Australia,2016.01.11,Outdoor Hard,250
+358,Australian Open,Melbourne,Australia,2016.01.18,Outdoor Hard,2000
+359,Montpellier,Montpellier,France,2016.02.01,Indoor Hard,250
+360,Quito,Quito,Ecuador,2016.02.01,Outdoor Clay,250
+361,Sofia,Sofia,Bulgaria,2016.02.01,Indoor Hard,250
+362,Rotterdam,Rotterdam,Netherlands,2016.02.08,Indoor Hard,500
+363,Memphis,Memphis,United States,2016.02.08,Indoor Hard,250
+364,Buenos Aires,Buenos Aires,Argentina,2016.02.08,Outdoor Clay,250
+365,Rio de Janeiro,Rio de Janeiro,Brazil,2016.02.15,Outdoor Clay,500
+366,Marseille,Marseille,France,2016.02.15,Indoor Hard,250
+367,Delray Beach,Delray Beach,United States,2016.02.15,Outdoor Hard,250
+368,Dubai,Dubai,United Arab Emirates,2016.02.22,Outdoor Hard,500
+369,Acapulco,Acapulco,Mexico,2016.02.22,Outdoor Hard,500
+370,Sao Paulo,Sao Paulo,Brazil,2016.02.22,Outdoor Clay,250
+371,ATP Masters 1000 Indian Wells,Indian Wells,United States,2016.03.10,Outdoor Hard,1000
+372,ATP Masters 1000 Miami,Miami,United States,2016.03.23,Outdoor Hard,1000
+373,Houston,Houston,United States,2016.04.04,Outdoor Clay,250
+374,Marrakech,Marrakech,Morocco,2016.04.04,Outdoor Clay,250
+375,ATP Masters 1000 Monte Carlo,Monte Carlo,Monaco,2016.04.10,Outdoor Clay,1000
+376,Barcelona,Barcelona,Spain,2016.04.18,Outdoor Clay,500
+377,Bucharest,Bucharest,Romania,2016.04.18,Outdoor Clay,250
+378,Estoril,Estoril,Portugal,2016.04.25,Outdoor Clay,250
+379,Munich,Munich,Germany,2016.04.25,Outdoor Clay,250
+380,Istanbul,Istanbul,Turkey,2016.04.25,Outdoor Clay,250
+381,ATP Masters 1000 Madrid,Madrid,Spain,2016.05.01,Outdoor Clay,1000
+382,ATP Masters 1000 Rome,Rome,Italy,2016.05.08,Outdoor Clay,1000
+383,Geneva,Geneva,Switzerland,2016.05.15,Outdoor Clay,250
+384,Nice,Nice,France,2016.05.15,Outdoor Clay,250
+385,Roland Garros,Paris,France,2016.05.22,Outdoor Clay,2000
+386,Stuttgart,Stuttgart,Germany,2016.06.06,Outdoor Grass,250
+387,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2016.06.06,Outdoor Grass,250
+388,London / Queen's Club,London,Great Britain,2016.06.13,Outdoor Grass,500
+389,Halle,Halle,Germany,2016.06.13,Outdoor Grass,500
+390,Nottingham,Nottingham,Great Britain,2016.06.19,Outdoor Grass,250
+391,Wimbledon,London,Great Britain,2016.06.27,Outdoor Grass,2000
+392,Hamburg,Hamburg,Germany,2016.07.11,Outdoor Clay,500
+393,Newport,Newport,United States,2016.07.11,Outdoor Grass,250
+394,Bastad,Bastad,Sweden,2016.07.11,Outdoor Clay,250
+395,Washington,Washington,United States,2016.07.18,Outdoor Hard,500
+396,Gstaad,Gstaad,Switzerland,2016.07.18,Outdoor Clay,250
+397,Kitzbuhel,Kitzbuhel,Austria,2016.07.18,Outdoor Clay,250
+398,Umag,Umag,Croatia,2016.07.18,Outdoor Clay,250
+399,ATP Masters 1000 Canada,Toronto,Canada,2016.07.25,Outdoor Hard,1000
+400,Atlanta,Atlanta,United States,2016.08.01,Outdoor Hard,250
+401,Rio Olympics,Rio de Janeiro,Brazil,2016.08.04,Outdoor Hard,Not relevant
+402,Los Cabos,Los Cabos,Mexico,2016.08.08,Outdoor Hard,250
+403,ATP Masters 1000 Cincinnati,Cincinnati,United States,2016.08.14,Outdoor Hard,1000
+404,Winston-Salem,Winston-Salem,United States,2016.08.21,Outdoor Hard,250
+405,US Open,New York,United States,2016.08.29,Outdoor Hard,2000
+406,St. Petersburg,St. Petersburg,Russia,2016.09.19,Indoor Hard,250
+407,Metz,Metz,France,2016.09.19,Indoor Hard,250
+408,Chengdu,Chengdu,China,2016.09.26,Outdoor Hard,250
+409,Shenzhen,Shenzhen,China,2016.09.26,Outdoor Hard,250
+410,Beijing,Beijing,China,2016.10.03,Outdoor Hard,500
+411,Tokyo,Tokyo,Japan,2016.10.03,Outdoor Hard,500
+412,ATP Masters 1000 Shanghai,Shanghai,China,2016.10.09,Outdoor Hard,1000
+413,Moscow,Moscow,Russia,2016.10.17,Indoor Hard,250
+414,Antwerp,Antwerp,Belgium,2016.10.17,Indoor Hard,250
+415,Stockholm,Stockholm,Sweden,2016.10.17,Indoor Hard,250
+416,Vienna,Vienna,Austria,2016.10.24,Indoor Hard,500
+417,Basel,Basel,Switzerland,2016.10.24,Indoor Hard,500
+418,ATP Masters 1000 Paris,Paris,France,2016.10.31,Indoor Hard,1000
+419,ATP Finals,London,Great Britain,2016.11.13,Indoor Hard,1500
+420,Brisbane,Brisbane,Australia,2015.01.04,Outdoor Hard,250
+421,Doha,Doha,Qatar,2015.01.05,Outdoor Hard,250
+422,Chennai,Chennai,India,2015.01.05,Outdoor Hard,250
+423,Sydney,Sydney,Australia,2015.01.11,Outdoor Hard,250
+424,Auckland,Auckland,New Zealand,2015.01.12,Outdoor Hard,250
+425,Australian Open,Melbourne,Australia,2015.01.19,Outdoor Hard,2000
+426,Montpellier,Montpellier,France,2015.02.02,Indoor Hard,250
+427,Quito,Quito,Ecuador,2015.02.02,Outdoor Clay,250
+428,Zagreb,Zagreb,Croatia,2015.02.02,Indoor Hard,250
+429,Rotterdam,Rotterdam,Netherlands,2015.02.09,Indoor Hard,500
+430,Memphis,Memphis,United States,2015.02.09,Indoor Hard,250
+431,Sao Paulo,Sao Paulo,Brazil,2015.02.09,Indoor Clay,250
+432,Rio de Janeiro,Rio de Janeiro,Brazil,2015.02.16,Outdoor Clay,500
+433,Marseille,Marseille,France,2015.02.16,Indoor Hard,250
+434,Delray Beach,Delray Beach,United States,2015.02.16,Outdoor Hard,250
+435,Dubai,Dubai,United Arab Emirates,2015.02.23,Outdoor Hard,500
+436,Acapulco,Acapulco,Mexico,2015.02.23,Outdoor Hard,500
+437,Buenos Aires,Buenos Aires,Argentina,2015.02.23,Outdoor Clay,250
+438,ATP Masters 1000 Indian Wells,Indian Wells,United States,2015.03.12,Outdoor Hard,1000
+439,ATP Masters 1000 Miami,Miami,United States,2015.03.25,Outdoor Hard,1000
+440,Houston,Houston,United States,2015.04.06,Outdoor Clay,250
+441,Casablanca,Casablanca,Morocco,2015.04.06,Outdoor Clay,250
+442,ATP Masters 1000 Monte Carlo,Monte-Carlo,Monaco,2015.04.12,Outdoor Clay,1000
+443,Barcelona,Barcelona,Spain,2015.04.20,Outdoor Clay,500
+444,Bucharest,Bucharest,Romania,2015.04.20,Outdoor Clay,250
+445,Estoril,Estoril,Portugal,2015.04.27,Outdoor Clay,250
+446,Istanbul,Istanbul,Turkey,2015.04.27,Outdoor Clay,250
+447,Munich,Munich,Germany,2015.04.27,Outdoor Clay,250
+448,ATP Masters 1000 Madrid,Madrid,Spain,2015.05.03,Outdoor Clay,1000
+449,ATP Masters 1000 Rome,Rome,Italy,2015.05.10,Outdoor Clay,1000
+450,Geneva,Geneva,Switzerland,2015.05.17,Outdoor Clay,250
+451,Nice,Nice,France,2015.05.17,Outdoor Clay,250
+452,Roland Garros,Paris,France,2015.05.24,Outdoor Clay,2000
+453,Stuttgart,Stuttgart,Germany,2015.06.08,Outdoor Grass,250
+454,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2015.06.08,Outdoor Grass,250
+455,Halle,Halle,Germany,2015.06.15,Outdoor Grass,500
+456,London / Queen's Club,London,Great Britain,2015.06.15,Outdoor Grass,500
+457,Nottingham,Nottingham,Great Britain,2015.06.21,Outdoor Grass,250
+458,Wimbledon,London,Great Britain,2015.06.29,Outdoor Grass,2000
+459,Newport,Newport,United States,2015.07.13,Outdoor Grass,250
+460,Bogota,Bogota,Colombia,2015.07.20,Outdoor Hard,250
+461,Bastad,Bastad,Sweden,2015.07.20,Outdoor Clay,250
+462,Umag,Umag,Croatia,2015.07.20,Outdoor Clay,250
+463,Hamburg,Hamburg,Germany,2015.07.27,Outdoor Clay,500
+464,Atlanta,Atlanta,United States,2015.07.27,Outdoor Hard,250
+465,Gstaad,Gstaad,Switzerland,2015.07.27,Outdoor Clay,250
+466,Washington,Washington,United States,2015.08.03,Outdoor Hard,500
+467,Kitzbuhel,Kitzbuhel,Austria,2015.08.03,Outdoor Clay,250
+468,ATP Masters 1000 Canada,Montreal,Canada,2015.08.10,Outdoor Hard,1000
+469,ATP Masters 1000 Cincinnati,Cincinnati,United States,2015.08.16,Outdoor Hard,1000
+470,Winston-Salem,Winston-Salem,United States,2015.08.23,Outdoor Hard,250
+471,US Open,New York,United States,2015.08.31,Outdoor Hard,2000
+472,St. Petersburg,St. Petersburg,Russia,2015.09.21,Indoor Hard,250
+473,Metz,Metz,France,2015.09.21,Indoor Hard,250
+474,Kuala Lumpur,Kuala Lumpur,Malaysia,2015.09.28,Indoor Hard,250
+475,Shenzhen,Shenzhen,China,2015.09.28,Outdoor Hard,250
+476,Beijing,Beijing,China,2015.10.05,Outdoor Hard,500
+477,Tokyo,Tokyo,Japan,2015.10.05,Outdoor Hard,500
+478,ATP Masters 1000 Shanghai,Shanghai,China,2015.10.11,Outdoor Hard,1000
+479,Vienna,Vienna,Austria,2015.10.19,Indoor Hard,500
+480,Moscow,Moscow,Russia,2015.10.19,Indoor Hard,250
+481,Stockholm,Stockholm,Sweden,2015.10.19,Indoor Hard,250
+482,Basel,Basel,Switzerland,2015.10.26,Indoor Hard,500
+483,Valencia,Valencia,Spain,2015.10.26,Indoor Hard,250
+484,ATP Masters 1000 Paris,Paris,France,2015.11.02,Indoor Hard,1000
+485,ATP Finals,London,Great Britain,2015.11.15,Indoor Hard,1500
+486,Brisbane,Brisbane,Australia,2013.12.29,Outdoor Hard,250
+487,Doha,Doha,Qatar,2013.12.30,Outdoor Hard,250
+488,Chennai,Chennai,India,2013.12.30,Outdoor Hard,250
+489,Auckland,Auckland,New Zealand,2014.01.06,Outdoor Hard,250
+490,Sydney,Sydney,Australia,2014.01.06,Outdoor Hard,250
+491,Australian Open,Melbourne,Australia,2014.01.13,Outdoor Hard,2000
+492,Montpellier,Montpellier,France,2014.02.03,Indoor Hard,250
+493,Vina del Mar,Vina del Mar,Chile,2014.02.03,Outdoor Clay,250
+494,Zagreb,Zagreb,Croatia,2014.02.03,Indoor Hard,250
+495,Rotterdam,Rotterdam,Netherlands,2014.02.10,Indoor Hard,500
+496,Memphis,Memphis,United States,2014.02.10,Indoor Hard,250
+497,Buenos Aires,Buenos Aires,Argentina,2014.02.10,Outdoor Clay,250
+498,Rio de Janeiro,Rio de Janeiro,Brazil,2014.02.17,Outdoor Clay,500
+499,Marseille,Marseille,France,2014.02.17,Indoor Hard,250
+500,Delray Beach,Delray Beach,United States,2014.02.17,Outdoor Hard,250
+501,Dubai,Dubai,United Arab Emirates,2014.02.24,Outdoor Hard,500
+502,Acapulco,Acapulco,Mexico,2014.02.24,Outdoor Hard,500
+503,Sao Paulo,Sao Paulo,Brazil,2014.02.24,Indoor Clay,250
+504,ATP Masters 1000 Indian Wells,Indian Wells,United States,2014.03.06,Outdoor Hard,1000
+505,ATP Masters 1000 Miami,Miami,United States,2014.03.19,Outdoor Hard,1000
+506,Houston,Houston,United States,2014.04.07,Outdoor Clay,250
+507,Casablanca,Casablanca,Morocco,2014.04.07,Outdoor Clay,250
+508,ATP Masters 1000 Monte Carlo,Monte Carlo,Monaco,2014.04.13,Outdoor Clay,1000
+509,Barcelona,Barcelona,Spain,2014.04.21,Outdoor Clay,500
+510,Bucharest,Bucharest,Romania,2014.04.21,Outdoor Clay,250
+511,Munich,Munich,Germany,2014.04.28,Outdoor Clay,250
+512,Oeiras,Oeiras,Portugal,2014.04.28,Outdoor Clay,250
+513,ATP Masters 1000 Madrid,Madrid,Spain,2014.05.04,Outdoor Clay,1000
+514,ATP Masters 1000 Rome,Rome,Italy,2014.05.11,Outdoor Clay,1000
+515,Dusseldorf,Dusseldorf,Germany,2014.05.18,Outdoor Clay,250
+516,Nice,Nice,France,2014.05.18,Outdoor Clay,250
+517,Roland Garros,Paris,France,2014.05.26,Outdoor Clay,2000
+518,Halle,Halle,Germany,2014.06.09,Outdoor Grass,250
+519,London / Queen's Club,London,Great Britain,2014.06.09,Outdoor Grass,250
+520,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2014.06.15,Outdoor Grass,250
+521,Eastbourne,Eastbourne,Great Britain,2014.06.16,Outdoor Grass,250
+522,Wimbledon,London,Great Britain,2014.06.23,Outdoor Grass,2000
+523,Newport,Newport,United States,2014.07.07,Outdoor Grass,250
+524,Bastad,Bastad,Sweden,2014.07.07,Outdoor Clay,250
+525,Stuttgart,Stuttgart,Germany,2014.07.07,Outdoor Clay,250
+526,Hamburg,Hamburg,Germany,2014.07.14,Outdoor Clay,500
+527,Bogota,Bogota,Colombia,2014.07.14,Outdoor Hard,250
+528,Atlanta,Atlanta,United States,2014.07.21,Outdoor Hard,250
+529,Gstaad,Gstaad,Switzerland,2014.07.21,Outdoor Clay,250
+530,Umag,Umag,Croatia,2014.07.21,Outdoor Clay,250
+531,Kitzbuhel,Kitzbuhel,Austria,2014.07.27,Outdoor Clay,250
+532,Washington,Washington,United States,2014.07.28,Outdoor Hard,500
+533,ATP Masters 1000 Canada,Toronto,Canada,2014.08.04,Outdoor Hard,1000
+534,ATP Masters 1000 Cincinnati,Cincinnati,United States,2014.08.10,Outdoor Hard,1000
+535,Winston-Salem,Winston-Salem,United States,2014.08.17,Outdoor Hard,250
+536,US Open,New York City,United States,2014.08.25,Outdoor Hard,2000
+537,Metz,Metz,France,2014.09.15,Indoor Hard,250
+538,Kuala Lumpur,Kuala Lumpur,Malaysia,2014.09.22,Indoor Hard,250
+539,Shenzhen,Shenzhen,China,2014.09.22,Outdoor Hard,250
+540,Beijing,Beijing,China,2014.09.29,Outdoor Hard,500
+541,Tokyo,Tokyo,Japan,2014.09.29,Outdoor Hard,500
+542,ATP Masters 1000 Shanghai,Shanghai,China,2014.10.05,Outdoor Hard,1000
+543,Moscow,Moscow,Russia,2014.10.13,Indoor Hard,250
+544,Stockholm,Stockholm,Sweden,2014.10.13,Indoor Hard,250
+545,Vienna,Vienna,Austria,2014.10.13,Indoor Hard,250
+546,Valencia,Valencia,Spain,2014.10.20,Indoor Hard,500
+547,Basel,Basel,Switzerland,2014.10.20,Indoor Hard,500
+548,ATP Masters 1000 Paris,Paris,France,2014.10.27,Indoor Hard,1000
+549,ATP Finals,London,Great Britain,2014.11.09,Indoor Hard,1500
+550,Brisbane,Brisbane,Australia,2012.12.30,Outdoor Hard,250
+551,Doha,Doha,Qatar,2012.12.31,Outdoor Hard,250
+552,Chennai,Chennai,India,2012.12.31,Outdoor Hard,250
+553,Sydney,Sydney,Australia,2013.01.07,Outdoor Hard,250
+554,Auckland,Auckland,New Zealand,2013.01.07,Outdoor Hard,250
+555,Australian Open,Melbourne,Australia,2013.01.14,Outdoor Hard,2000
+556,Montpellier,Montpellier,France,2013.02.04,Indoor Hard,250
+557,Vina del Mar,Vina del Mar,Chile,2013.02.04,Outdoor Clay,250
+558,Zagreb,Zagreb,Croatia,2013.02.04,Indoor Hard,250
+559,Rotterdam,Rotterdam,Netherlands,2013.02.11,Indoor Hard,500
+560,San Jose,San Jose,United States,2013.02.11,Indoor Hard,250
+561,Sao Paulo,Sao Paulo,Brazil,2013.02.11,Indoor Clay,250
+562,Memphis,Memphis,United States,2013.02.18,Indoor Hard,500
+563,Marseille,Marseille,France,2013.02.18,Indoor Hard,250
+564,Buenos Aires,Buenos Aires,Argentina,2013.02.18,Outdoor Clay,250
+565,Dubai,Dubai,United Arab Emirates,2013.02.25,Outdoor Hard,500
+566,Acapulco,Acapulco,Mexico,2013.02.25,Outdoor Clay,500
+567,Delray Beach,Delray Beach,United States,2013.02.25,Outdoor Hard,250
+568,ATP Masters 1000 Indian Wells,Indian Wells,United States,2013.03.07,Outdoor Hard,1000
+569,ATP Masters 1000 Miami,Miami,United States,2013.03.20,Outdoor Hard,1000
+570,Houston,Houston,United States,2013.04.08,Outdoor Clay,250
+571,Casablanca,Casablanca,Morocco,2013.04.08,Outdoor Clay,250
+572,ATP Masters 1000 Monte Carlo,Monte-Carlo,Monaco,2013.04.14,Outdoor Clay,1000
+573,Barcelona,Barcelona,Spain,2013.04.22,Outdoor Clay,500
+574,Bucharest,Bucharest,Romania,2013.04.22,Outdoor Clay,250
+575,Munich,Munich,Germany,2013.04.29,Outdoor Clay,250
+576,Oeiras,Oeiras,Portugal,2013.04.29,Outdoor Clay,250
+577,ATP Masters 1000 Madrid,Madrid,Spain,2013.05.05,Outdoor Clay,1000
+578,ATP Masters 1000 Rome,Rome,Italy,2013.05.12,Outdoor Clay,1000
+579,Dusseldorf,Dusseldorf,Germany,2013.05.19,Outdoor Clay,250
+580,Nice,Nice,France,2013.05.19,Outdoor Clay,250
+581,Roland Garros,Paris,France,2013.05.27,Outdoor Clay,2000
+582,Halle,Halle,Germany,2013.06.10,Outdoor Grass,250
+583,London / Queen's Club,London,Great Britain,2013.06.10,Outdoor Grass,250
+584,'s-Hertogenbosch,'s-Hertogenbosch,Netherlands,2013.06.16,Outdoor Grass,250
+585,Eastbourne,Eastbourne,Great Britain,2013.06.17,Outdoor Grass,250
+586,Wimbledon,London,Great Britain,2013.06.24,Outdoor Grass,2000
+587,Newport,Newport,United States,2013.07.08,Outdoor Grass,250
+588,Bastad,Bastad,Sweden,2013.07.08,Outdoor Clay,250
+589,Stuttgart,Stuttgart,Germany,2013.07.08,Outdoor Clay,250
+590,Hamburg,Hamburg,Germany,2013.07.15,Outdoor Clay,500
+591,Bogota,Bogota,Colombia,2013.07.15,Outdoor Hard,250
+592,Atlanta,Atlanta,United States,2013.07.22,Outdoor Hard,250
+593,Gstaad,Gstaad,Switzerland,2013.07.22,Outdoor Clay,250
+594,Umag,Umag,Croatia,2013.07.22,Outdoor Clay,250
+595,Kitzbuhel,Kitzbuhel,Austria,2013.07.28,Outdoor Clay,250
+596,Washington,Washington,United States,2013.07.29,Outdoor Hard,500
+597,ATP Masters 1000 Canada,Montreal,Canada,2013.08.05,Outdoor Hard,1000
+598,ATP Masters 1000 Cincinnati,Cincinnati,United States,2013.08.11,Outdoor Hard,1000
+599,Winston-Salem,Winston-Salem,United States,2013.08.18,Outdoor Hard,250
+600,US Open,New York,United States,2013.08.26,Outdoor Hard,2000
+601,St. Petersburg,St. Petersburg,Russia,2013.09.16,Indoor Hard,250
+602,Metz,Metz,France,2013.09.16,Indoor Hard,250
+603,Kuala Lumpur,Kuala Lumpur,Malaysia,2013.09.23,Indoor Hard,250
+604,Bangkok,Bangkok,Thailand,2013.09.23,Indoor Hard,250
+605,Beijing,Beijing,China,2013.09.30,Outdoor Hard,500
+606,Tokyo,Tokyo,Japan,2013.09.30,Outdoor Hard,500
+607,ATP Masters 1000 Shanghai,Shanghai,China,2013.10.07,Outdoor Hard,1000
+608,Moscow,Moscow,Russia,2013.10.14,Indoor Hard,250
+609,Stockholm,Stockholm,Sweden,2013.10.14,Indoor Hard,250
+610,Vienna,Vienna,Austria,2013.10.14,Indoor Hard,250
+611,Valencia,Valencia,Spain,2013.10.21,Indoor Hard,500
+612,Basel,Basel,Switzerland,2013.10.21,Indoor Hard,500
+613,ATP Masters 1000 Paris,Paris,France,2013.10.28,Indoor Hard,1000
+614,ATP Finals,London,Great Britain,2013.11.04,Indoor Hard,1500
