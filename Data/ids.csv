@@ -1,0 +1,477 @@
+﻿id,big_id,Player
+1,104925,Novak Djokovic
+2,104745,Rafael Nadal
+3,106233,Dominic Thiem
+4,106421,Daniil Medvedev
+5,103819,Roger Federer
+6,126774,Stefanos Tsitsipas
+7,100644,Alexander Zverev
+8,126094,Andrey Rublev
+9,106043,Diego Schwartzman
+10,126610,Matteo Berrettini
+11,104792,Gael Monfils
+12,133430,Denis Shapovalov
+13,105138,Roberto Bautista Agut
+14,105683,Milos Raonic
+15,105676,David Goffin
+16,105807,Pablo Carreno Busta
+17,104926,Fabio Fognini
+18,104527,Stan Wawrinka
+19,200000,Felix Auger Aliassime
+20,111575,Karen Khachanov
+21,105777,Grigor Dimitrov
+22,106426,Christian Garin
+23,200282,Alex De Minaur
+24,104545,John Isner
+25,106432,Borna Coric
+26,105554,Daniel Evans
+27,105583,Dusan Lajovic
+28,134770,Casper Ruud
+29,105332,Benoit Paire
+30,128034,Hubert Hurkacz
+31,126203,Taylor Fritz
+32,206173,Jannik Sinner
+33,105936,Filip Krajinovic
+34,200005,Ugo Humbert
+35,132283,Lorenzo Sonego
+36,105173,Adrian Mannarino
+37,105526,Jan Lennard Struff
+38,124187,Reilly Opelka
+39,105357,John Millman
+40,105932,Nikoloz Basilashvili
+41,200175,Miomir Kecmanovic
+42,105453,Kei Nishikori
+43,105227,Marin Cilic
+44,105550,Guido Pella
+45,122330,Alexander Bublik
+47,106401,Nick Kyrgios
+48,104755,Richard Gasquet
+49,111442,Jordan Thompson
+50,106378,Kyle Edmund
+51,105815,Tennys Sandgren
+52,105023,Sam Querrey
+53,126205,Tommy Paul
+54,200221,Alejandro Davidovich Fokina
+55,105916,Marton Fucsovics
+56,111513,Laslo Djere
+57,105379,Aljaz Bedene
+58,106415,Yoshihito Nishioka
+59,104665,Pablo Andujar
+60,105882,Stefano Travaglia
+61,104871,Jeremy Chardy
+62,104542,Jo-Wilfried Tsonga
+63,105577,Vasek Pospisil
+64,126207,Frances Tiafoe
+65,103852,Feliciano Lopez
+66,104468,Gilles Simon
+67,104269,Fernando Verdasco
+68,106210,Jiri Vesely
+69,111815,Cameron Norrie
+70,136440,Dominik Koepfer
+71,144895,Corentin Moutet
+72,104655,Pablo Cuevas
+73,105575,Ricardas Berankis
+74,106329,Thiago Monteiro
+75,106218,Marcos Giron
+76,106298,Lucas Pouille
+77,105449,Steve Johnson
+78,106099,Salvatore Caruso
+79,106078,Egor Gerasimov
+80,105643,Federico Delbonis
+81,104731,Kevin Anderson
+82,106065,Marco Cecchinato
+83,106228,Juan Ignacio Londero
+84,105732,Pierre Hugues Herbert
+85,105430,Radu Albot
+86,200325,Emil Ruusuvuori
+87,124079,Pedro Martinez
+88,200624,Sebastian Korda
+89,105613,Norbert Gombos
+90,105062,Mikhail Kukushkin
+91,144750,Lloyd Harris
+92,105948,Federico Coria
+93,105311,Joao Sousa
+94,105226,Attila Balazs
+95,144707,Mikael Ymer
+96,126149,Gianluca Mager
+97,126952,Soon Woo Kwon
+98,110602,Dennis Novak
+99,106148,Roberto Carballes Baena
+100,104259,Philipp Kohlschreiber
+101,144719,Jaume Munar
+102,105870,Yannick Hanfmann
+103,105413,Andrej Martin
+104,105216,Yuichi Sugita
+105,105902,James Duckworth
+106,106034,Yasutaka Uchiyama
+107,105155,Pedro Sousa
+108,104312,Andreas Seppi
+109,111794,Kamil Majchrzak
+110,125802,Ilya Ivashka
+111,106296,Gregoire Barrere
+112,106198,Hugo Dellien
+113,200615,Alexei Popyrin
+114,106234,Aslan Karatsev
+115,123755,Daniel Elahi Galan
+116,106045,Denis Kudla
+117,205734,Thiago Seyboth Wild
+118,106121,Taro Daniel
+119,126156,Antoine Hoang
+120,106000,Damir Dzumhur
+121,106331,Christopher O'Connell
+122,207518,Lorenzo Musetti
+123,105539,Evgeny Donskoy
+124,106075,Jozef Kovalik
+125,104918,Andy Murray
+126,117360,Marc Polmans
+127,105487,Facundo Bagnis
+128,126535,Carlos Taberner
+129,105649,Cedrik Marcel Stebe
+130,200670,J.J. Wolf
+131,105432,Prajnesh Gunneswaran
+132,104424,Go Soeda
+133,206909,Brandon Nakashima
+134,127157,Daniel Altmaier
+135,104919,Leonardo Mayer
+136,105359,Jason Jung
+137,126127,Benjamin Bonzi
+138,126239,Arthur Rinderknech
+139,105967,Henri Laaksonen
+140,105943,Federico Gaio
+141,207989,Carlos Alcaraz Garfia
+142,126523,Bernabe Zapata Miralles
+143,105376,Peter Gojowczyk
+144,111576,Sumit Nagal
+145,110748,Nikola Milojevic
+146,202103,Francisco Cerundolo
+147,106214,Oscar Otte
+148,144817,Marc Andrea Huesler
+149,103333,Ivo Karlovic
+150,105633,Mohamed Safwat
+151,122298,Botic van de Zandschulp
+152,200514,Jurij Rodionov
+153,105905,Danilo Petrovic
+154,103893,Paolo Lorenzi
+155,105614,Bradley Klahn
+156,134868,Tallon Griekspoor
+157,105841,Lorenzo Giustino
+158,105373,Martin Klizan
+159,105641,Blaz Rola
+160,105561,Alessandro Giannessi
+161,105223,Juan Martin del Potro
+162,122669,Juan Pablo Varillas
+163,124116,Sebastian Ofner
+164,106110,Filip Horansky
+165,105877,Emilio Gomez
+166,106109,Alex Bolt
+167,126214,Alejandro Tabilo
+168,200384,Hugo Gaston
+169,111202,Hyeon Chung
+170,122078,Dmitry Popko
+171,105819,Guido Andreozzi
+172,202195,Maxime Cressy
+173,111190,Zhizhen Zhang
+174,105341,Thomas Fabbiano
+175,120424,Yannick Maden
+176,106249,Joao Domingues
+177,111581,Michael Mmoh
+178,106293,Kimmer Coppejans
+179,104719,Marcel Granollers
+180,105731,Steven Diez
+181,106408,Mario Vilella Martinez
+182,105406,Roberto Marcora
+183,126128,Roman Safiullin
+184,104797,Denis Istomin
+185,106393,Frederico Ferreira Silva
+186,105041,Lukas Lacko
+187,105208,Ernests Gulbis
+188,111453,Mikael Torpegaard
+189,110778,Joao Menezes
+190,106368,Ramkumar Ramanathan
+191,106281,Liam Broady
+192,111456,Mackenzie McDonald
+193,126652,Jay Clarke
+194,105147,Tatsuma Ito
+195,106283,Mitchell Krueger
+196,126846,Aleksandar Vukic
+197,104898,Robin Haase
+198,104586,Lukas Rosol
+199,207830,Tomas Machac
+200,104660,Sergiy Stakhovsky
+201,111797,Nicolas Jarry
+202,111790,Brayden Schnur
+203,104534,Dudi Sela
+204,104198,Guillermo Garcia Lopez
+205,105657,Marius Copil
+206,104678,Viktor Troicki
+207,106302,Andrew Harris
+208,200484,Rudolf Molleker
+209,111200,Elias Ymer
+210,104571,Marcos Baghdatis
+211,105166,Peter Polansky
+212,105782,Enrique Lopez Perez
+213,106071,Bernard Tomic
+214,103917,Nicolas Mahut
+216,111505,Enzo Couacaud
+217,105985,Darian King
+218,106423,Thanasi Kokkinakis
+219,103990,Tommy Robredo
+220,104327,Steve Darcis
+221,104291,Malek Jaziri
+222,105051,Matthew Ebden
+223,104607,Tomas Berdych
+224,104999,Mischa Zverev
+225,109739,Maximilian Marterer
+226,105992,Ryan Harrison
+227,105806,Mirza Basic
+228,106058,Jack Sock
+229,111577,Jared Donaldson
+230,105074,Ruben Bemelmans
+231,105477,Marco Trungelliti
+232,103970,David Ferrer
+233,111460,Quentin Halys
+234,104897,Matthias Bachinger
+235,104629,Adrian Menendez Maceiras
+236,106186,Jason Kubler
+237,104297,Rogerio Dutra Silva
+238,106216,Bjorn Fratangelo
+239,104620,Simone Bolelli
+240,104180,Gilles Muller
+241,104122,Carlos Berlocq
+242,106026,Yuki Bhambri
+243,111511,Noah Rubin
+244,106005,Constant Lestienne
+245,105132,Jurgen Zopp
+246,121531,Mats Moraing
+247,106420,Gianluigi Quinzi
+248,104563,Luca Vanni
+249,105065,Tim Smyczek
+250,111795,Filippo Baldi
+251,111153,Christopher Eubanks
+252,106353,Pedja Krstin
+253,106072,Alexey Vatutin
+254,105063,Andrea Arnaboldi
+255,106044,Nicolas Kicker
+256,105933,Roberto Quiroz
+257,104547,Horacio Zeballos
+258,104978,Daniel Brands
+259,105655,Hiroki Moriya
+260,104868,James Ward
+261,104593,Daniel Gimeno Traver
+262,124014,Ernesto Escobedo
+263,133297,Yosuke Watanuki
+264,104873,Aleksandr Nedovyesov
+265,126125,Maxime Janvier
+266,103565,Stephane Robert
+267,109303,Stefano Napolitano
+268,105963,Arthur De Greef
+269,105238,Alexandr Dolgopolov
+270,103898,Julien Benneteau
+271,105385,Donald Young
+272,104252,Florian Mayer
+273,104229,Yen Hsun Lu
+274,103607,Victor Estrella
+275,104022,Mikhail Youzhny
+276,104882,Blaz Kavcic
+277,105589,Gerald Melzer
+278,104386,Janko Tipsarevic
+279,105723,Andrey Kuznetsov
+280,105064,Thomaz Bellucci
+281,105671,Gastao Elias
+282,105668,Jerzy Janowicz
+283,104460,Dustin Brown
+284,105952,Renzo Olivo
+285,105590,Uladzimir Ignatik
+286,117361,Akira Santillan
+287,104597,Nicolas Almagro
+288,123921,Calvin Hemery
+289,104932,Kenny De Schepper
+290,106288,Mathias Bourgue
+291,105163,Gleb Sakharov
+292,111578,Stefan Kozlov
+293,105060,Aldin Setkic
+294,105634,Viktor Galovic
+295,106290,Filip Peliwo
+296,103781,Jurgen Melzer
+297,104672,Vincent Millot
+298,105656,Marcelo Arevalo
+299,105585,Ze Zhang
+301,117353,Duck Hee Lee
+302,105011,Illya Marchenko
+303,106120,Ricardo Ojeda Lara
+304,104338,Juan Monaco
+305,103908,Paul Henri Mathieu
+306,106361,Adam Pavlasek
+307,104505,Konstantin Kravchuk
+308,105053,Santiago Giraldo
+310,103285,Radek Stepanek
+311,104735,Tobias Kamke
+312,103794,Benjamin Becker
+313,103843,Marco Chiudinelli
+314,105154,Joao Souza
+315,104330,Rajeev Ram
+316,104559,Teymuraz Gabashvili
+317,104471,Ivan Dodig
+318,103105,Ruben Ramirez Hidalgo
+319,104216,Maximo Gonzalez
+320,104813,Grega Zemlja
+321,105842,Di Wu
+322,105596,Jan Satral
+323,103656,Albert Montanes
+324,106261,Dennis Novikov
+325,106225,Andrew Whittington
+326,104997,Igor Sijsling
+327,105032,Sam Groth
+328,103582,Michael Berrer
+329,106006,Agustin Velotti
+330,105031,Saketh Myneni
+331,104628,Alexander Kudryavtsev
+332,104945,James Mcgee
+333,106167,Joris De Loore
+334,105881,Matthew Barton
+335,106311,Marko Tepavac
+336,104890,Andreas Haider Maurer
+337,103926,Daniel Munoz de la Nava
+339,105572,Austin Krajicek
+340,104947,Marsel Ilhan
+341,104268,Alejandro Falla
+342,104273,Edouard Roger Vasselin
+343,105441,John Patrick Smith
+344,106032,Facundo Arguello
+345,105292,Alejandro Gonzalez
+346,104007,Andre Ghem
+347,103813,Jarkko Nieminen
+348,104736,Farrukh Dustov
+349,104095,David Guez
+350,104494,Adrian Ungur
+351,106105,Guilherme Clezar
+352,104500,Somdev Devvarman
+353,106390,Matteo Donati
+354,105015,Franko Skugor
+355,105454,Brydan Klein
+356,106291,Luke Saville
+357,105070,Hans Podlipnik Castillo
+358,105515,Jordi Samper Montana
+359,103835,Filippo Volandri
+360,104308,Michal Przysiezny
+361,106137,Tristan Lamasine
+362,105512,Alexander Sarkissian
+363,104963,Yannick Mertens
+364,104979,Andrey Golubev
+365,103163,Tommy Haas
+366,104594,Marinko Matosevic
+367,103720,Lleyton Hewitt
+368,104098,Dmitry Tursunov
+369,105137,Pere Riba
+370,104676,Andreas Beck
+371,104499,Jimmy Wang
+372,103812,Victor Hanescu
+373,104433,Frank Dancevic
+374,106243,Mate Delic
+375,103188,Michael Russell
+376,103808,Potito Starace
+377,104639,Wayne Odesnik
+378,104920,Denys Molchanov
+379,105302,Ante Pavic
+380,103997,Lukasz Kubot
+381,104714,Julian Reister
+382,104864,Alex Kuznetsov
+383,105047,Tim Puetz
+384,104970,Matteo Viola
+385,105783,Chase Buchanan
+387,104619,Jesse Huta Galung
+389,103401,Jan Hernych
+390,103786,Nikolay Davydenko
+392,103566,Michael Llodra
+393,104225,Jan Hajek
+394,102967,Marc Gicquel
+395,105733,Rhyne Williams
+396,103598,Xavier Malisse
+397,105558,Guillaume Rufin
+398,104651,Martin Alund
+399,105028,Jesse Levine
+400,103484,James Blake
+401,104154,Paul Capdeville
+402,103573,Rik De Voest
+403,104035,Bobby Reynolds
+404,104262,Flavio Cipolla
+405,104804,Amir Weintraub
+406,104770,Martin Fischer
+407,105175,Kristijan Mesaros
+408,104944,Niels Desein
+409,103888,Mardy Fish
+410,104053,Andy Roddick
+411,104548,Brian Baker
+412,103451,Bjorn Phau
+413,103900,David Nalbandian
+414,103694,Olivier Rochus
+415,104214,Igor Andreev
+416,104721,Josselin Ouanna
+417,104332,Philipp Petzschner
+418,103722,Florent Serra
+419,105099,Antonio Veic
+420,104523,Frederico Gil
+421,103971,Karol Beck
+422,104976,Ryan Sweeting
+423,103999,Thiago Alves
+425,103752,Simon Greul
+426,103821,Danai Udomchoke
+428,104893,Maxime Authom
+429,103857,Igor Kunitsyn
+430,104081,Boris Pashanski
+431,103747,Dominik Meffert
+432,103428,Juan Ignacio Chela
+433,105300,Sergio Gutierrez Ferrol
+434,105894,Javier Marti
+435,103902,Jan Mertl
+436,104371,Ivo Minar
+437,104477,Jorge Aguilar
+438,104869,Sergei Bubka
+439,104516,Arnau Brugues Davi
+440,104851,Gianluca Naso
+441,104417,Robin Soderling
+442,103344,Ivan Ljubicic
+443,103507,Juan Carlos Ferrero
+444,104349,Rui Machado
+445,103672,Ricardo Mello
+446,103799,Eric Prodon
+447,104292,Izak Van Der Merwe
+448,103675,Diego Junqueira
+449,102783,Rainer Schuettler
+450,105318,Thomas Schoorel
+451,104724,Eduardo Schwank
+452,104227,Augustin Gensse
+453,103096,Arnaud Clement
+455,105270,Maxime Teixeira
+456,104195,Simone Vagnozzi
+457,105738,Tsung Hua Yang
+458,102999,Stefano Galvani
+459,103676,Michael Yani
+460,104314,Brian Dabul
+462,104226,Bastian Knittel
+463,105128,Guillermo Olaso
+464,103823,Denis Gremelmayr
+465,103868,Ivan Navarro
+466,103393,Yuri Schukin
+467,105349,Harri Heliovaara
+468,105286,Greg Jones
+469,105827,Laurynas Grigelis
+470,104965,Pavol Cervenak
+471,103602,Fernando Gonzalez
+472,103228,Marcos Daniel
+473,103470,Robert Kendrick
+475,103851,Conor Niland
+476,102905,Stefan Koubek
+477,104219,Stephane Bohli
+478,103429,Peter Luczak
+479,103708,Jaroslav Pospisil
+480,105095,Evgeny Korolev
+481,104068,Robby Ginepri
+482,104592,Ilija Bozoljac
+483,104958,Carsten Ball
+485,104113,Carlos Salamanca
+486,103976,Juan Pablo Brzezicki
+487,104003,Victor Crivoi
+488,103454,Nicolas Massu
+489,104857,Robert Farah
+490,108701,Juan Sebastian Cabal
