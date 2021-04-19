@@ -6,7 +6,16 @@ import pandas as pd
 
 ### The features "player1", "player2" and "Tournament" are treated differently
 ### from the other features. 
-
+''' Pree cleaning:
+surface: 3 cat columns
+draw_size: 6 cat columns
+winner_hand: 3 cat columns
+winner_ioc: 71 cat columns
+loser_ioc: 82 cat columns
+loser_hand: 3 cat columns
+best_of: 2 cat colimns
+round: 8 cat features
+'''
 def categorical_features_encoding(cat_data):
     """
     Categorical features encoding.
@@ -16,7 +25,33 @@ def categorical_features_encoding(cat_data):
     ohe=OneHotEncoder()
     cat_data=ohe.fit_transform(cat_data)
     cat_data=pd.DataFrame(cat_data.todense())
-    cat_data.columns=["cat_data_"+str(i) for i in range(len(cat_data.columns))]
+    cat_data.columns=[
+                    'surface_1',
+                    'surface_2',
+                    'surface_3',
+                    'draw_size_1',
+                    'draw_size_2',
+                    'draw_size_3',
+                    'draw_size_4',
+                    'draw_size_5',
+                    'draw_size_6',
+                    'winner_hand_1',
+                    'winner_hand_2',
+                    'winner_hand_3',
+                    'loser_hand_1',
+                    'loser_hand_2',
+                    'loser_hand_3',
+                    'best_of_3',
+                    'best_of_5',
+                    'round_1',
+                    'round_2',
+                    'round_3',
+                    'round_4',
+                    'round_5',
+                    'round_6',
+                    'round_7',
+                    'round_8',
+                  ]
     cat_data=cat_data.astype(int)
     return cat_data
 

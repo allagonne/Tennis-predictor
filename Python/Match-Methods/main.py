@@ -38,6 +38,9 @@ big_frame['tourney_date'] = pd.to_datetime(big_frame['tourney_date'], format='%Y
 big_frame = big_frame.sort_values(['tourney_date', 'match_num'])
 big_frame = big_frame.reset_index(drop=True)
 
+## Seperate Sets/Games
+
+
 ################################################################################
 ############################ Adding Relevant Values ############################
 ################################################################################
@@ -59,7 +62,7 @@ indices = df[(df.tourney_date>beg)&(df.tourney_date<=end)].index
 
 ## Building of attributes based on the past matches
 
-features_player  = features_past_generation(features_player_creation,120,"playters_stats",df,indices)
+features_player  = features_past_generation(120,360,df,indices)
 features_player.to_csv(three_up + "/Data/Generated csv/features_player.csv",index=False)
 
 ################################################################################
@@ -71,6 +74,7 @@ features_player.to_csv(three_up + "/Data/Generated csv/features_player.csv",inde
 
 df_selected = df.iloc[indices,:].reset_index(drop=True)
 df_selected.shape
+
 
 
 # Categorical data
@@ -86,44 +90,17 @@ loser_hand: 3 cat columns
 best_of: 2 cat colimns
 round: 8 cat features
 '''
+
 categorical_data = df_selected[["surface","draw_size","winner_hand","loser_hand","best_of","round"]]
 cat_table = categorical_features_encoding(categorical_data)
-#cat_table.to_csv("/home/pupulvuh/Code/tennis/tennisproyect/Tennis-predictor/Data/Generated csv/atp_data_attributes.csv",index=False)
-
-# DATA DUPLICATION
-'''Data duplication: Duplicate each match'''
-# ELO
-elo_rankings = df_selected[["elo_winner","elo_loser","proba_elo"]]
-elo_1 = elo_rankings
-elo_2 = elo_1[["elo_loser","elo_winner","proba_elo"]]
-elo_2.columns = ["elo_winner","elo_loser","proba_elo"]
-elo_2.proba_elo = 1-elo_2.proba_elo
-elo_2.index = range(1,2*len(elo_1),2)
-elo_1.index = range(0,2*len(elo_1),2)
-features_elo_ranking = pd.concat([elo_1,elo_2]).sort_index(kind='merge')
-features_elo_ranking
-
-# Rankings
-
-#atp_rankings = df_selected[['winner_rank','winner_rank_points','loser_rank','loser_rank_points']]
-atp_rankings = df_selected[['winner_rank_points','loser_rank_points']]
-rank_1 = atp_rankings
-rank_2 = rank_1[['loser_rank_points', 'winner_rank_points']]
-rank_2.columns = ['winner_rank_points','loser_rank_points']
-rank_2.index = range(1,2*len(rank_1),2)
-rank_1.index = range(0,2*len(rank_1),2)
-features_atp_ranking = pd.concat([rank_1,rank_2]).sort_index(kind='merge')
-print(features_atp_ranking.shape)
-
-#Categorical data
-
-features_cat = pd.DataFrame(np.repeat(cat_table.values,2, axis=0),columns=cat_table.columns)
-features_cat
 
 # Final Concatenation
 
-ml_data = pd.concat([features_elo_ranking,
-                  features_cat,
-                  features_player],1)
+ml_data = pd.concat([features_player, cat_table],1)
+
+# Re-order columns
+cols = ml_data.columns.tolist()
+cols = cols[0:5] + cols[-16:-15]  + cols[-15:-14] + cols[-14:-13] + cols[5:19] + cols[-13:-12]  + cols[-12:-11] + cols[-11:-10] + cols[19:30] + cols[31:40] + cols[46:56] + cols[30:31]
+ml_data = ml_data[cols]
 
 ml_data.to_csv(three_up + "/Data/Generated csv/atp_data_attributes.csv",index=False)
