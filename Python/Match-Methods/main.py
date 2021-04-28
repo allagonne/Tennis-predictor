@@ -100,7 +100,8 @@ ml_data = pd.concat([features_player, cat_table],1)
 
 # Re-order columns
 cols = ml_data.columns.tolist()
-cols = cols[0:5] + cols[-16:-15]  + cols[-15:-14] + cols[-14:-13] + cols[5:19] + cols[-13:-12]  + cols[-12:-11] + cols[-11:-10] + cols[19:30] + cols[31:40] + cols[46:56] + cols[30:31]
+cols = cols[0:5] + cols[-16:-15]  + cols[-15:-14] + cols[5:19] + cols[-13:-12]  + cols[-12:-11] + cols[19:30] + cols[31:33] + cols[34:39] + cols[46:47] + cols[48:55] + cols[30:31]
+
 ml_data = ml_data[cols]
 
 ml_data.to_csv(three_up + "/Data/Generated csv/atp_data_attributes.csv",index=False)
