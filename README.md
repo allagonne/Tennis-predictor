@@ -13,3 +13,5 @@
 # When you want to install something: 
 # pip3 install ...
 # pip freeze -e > requirements.txt
+
+# RUN: python Python/Match-Methods/main.py

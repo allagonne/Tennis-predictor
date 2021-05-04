@@ -58,7 +58,7 @@ def features_past_generation(days_all,
                     'player1_name',
                     'player1_age',
                     'player1_height',
-                    #'player1_hand',
+                    'player1_hand',
                     'player1_ranking_points',
                     'player1_elo',
                     'player1_wins',
@@ -72,7 +72,7 @@ def features_past_generation(days_all,
                     'player2_name',
                     'player2_age',
                     'player2_height',
-                    #'player2_hand',
+                    'player2_hand',
                     'player2_ranking_points',
                     'player2_elo',
                     'player2_wins',
@@ -90,7 +90,7 @@ def features_past_generation(days_all,
                     'player1_winrate',
                   ]
     cols = train.columns.tolist()
-    cols = cols[0:13] + cols[-3:-2]  + cols[13:26] + cols[-2:-1] + cols[27:28] + cols[30:31] + cols[26:27]
+    cols = cols[0:14] + cols[-3:-2]  + cols[14:28] + cols[-2:-1] + cols[29:30] + cols[32:33] + cols[28:29]
     train = train[cols]
 
     #train.columns=[feature_names_prefix+str(i) for i in range(len(train.columns))]
@@ -107,23 +107,23 @@ def features_player_creation(match, past_matches, player1, player2, surface): #N
     if (match.winner_name == player1):
       player1_age = match.winner_age
       player1_ht = match.winner_ht
-      #player1_hand = match.winner_hand
+      player1_hand = match.winner_hand
       player1_rk_points = match.winner_rank_points
       player1_elo_points = match.elo_winner
       player2_age = match.loser_age
       player2_ht = match.loser_ht
-      #player2_hand = match.loser_hand      
+      player2_hand = match.loser_hand      
       player2_rk_points = match.loser_rank_points
       player2_elo_points = match.elo_loser
     else:
       player1_age = match.loser_age
       player1_ht = match.loser_ht
-      #player1_hand = match.loser_hand      
+      player1_hand = match.loser_hand      
       player1_rk_points = match.loser_rank_points
       player1_elo_points = match.elo_loser
       player2_age = match.winner_age
       player2_ht = match.winner_ht
-      #player2_hand = match.winner_hand    
+      player2_hand = match.winner_hand    
       player2_rk_points = match.winner_rank_points
       player2_elo_points = match.elo_winner
 
@@ -133,7 +133,7 @@ def features_player_creation(match, past_matches, player1, player2, surface): #N
     features_player.append(player1) 
     features_player.append(player1_age) 
     features_player.append(player1_ht) 
-    #features_player.append(player1_hand)
+    features_player.append(player1_hand)
     features_player.append(player1_rk_points)
     features_player.append(player1_elo_points)
 
@@ -160,7 +160,7 @@ def features_player_creation(match, past_matches, player1, player2, surface): #N
     features_player.append(player2) 
     features_player.append(player2_age) 
     features_player.append(player2_ht) 
-    #features_player.append(player2_hand)
+    features_player.append(player2_hand)
     features_player.append(player2_rk_points)
     features_player.append(player2_elo_points)
 
@@ -200,6 +200,36 @@ def features_duo_creation(past_matches, player1, player2):
 
 
     return features_duo
+
+# def recent_features(match,past_matches, player1, player2):
+#     ##### Match information extraction (according to the outcome)
+#     date=match.Date
+#     ##### Last matches
+#     wins=past_matches[past_matches.Winner==player]    
+#     losses=past_matches[past_matches.Loser==player]    
+#     todo=pd.concat([wins,losses],0)
+#     if len(todo)==0:
+#         return [np.nan]*7
+#     # Month since last game won
+#     dslm=(date-todo.iloc[-1,:].Date).month
+#     # Was the last match won ?
+#     wlmw=int(todo.iloc[-1,:].Winner==player)
+#     # Ranking of the last player played
+#     rlpp=todo.iloc[-1,:].winner_rank_points
+#     # Number of sets of last match played
+#     nslmp=todo.iloc[-1,:]['Best of']
+#     # Number of sets won during last match played
+#     nswlmp=todo.iloc[-1,:]['Wsets'] if wlmw==1 else todo.iloc[-1,:]['Lsets']
+#     # Injuries - iitp + injury last match
+#     if len(losses)!=0:
+#         ilm=int(losses.iloc[-1,:].Comment=="Completed")
+#         iitp=1 if (losses.Comment!="Completed").sum()>0 else 0
+#     else:
+#         ilm=np.nan
+#         iitp=np.nan
+#     features_recent=[dslm,wlmw,rlpp,nslmp,nswlmp,ilm,iitp]
+#     return features_recent
+
 
 # This is here for testing, should be errased later:
 
