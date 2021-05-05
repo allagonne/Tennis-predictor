@@ -16,11 +16,14 @@ loser_hand: 3 cat columns
 best_of: 2 cat colimns
 round: 8 cat features
 '''
+
+    #cat_data.columns=["cat_feature_"+str(i) for i in range(len(cat_data.columns))]
 def categorical_features_encoding(cat_data):
     """
     Categorical features encoding.
     Simple one-hot encoding.
     """
+
     cat_data=cat_data.apply(preprocessing.LabelEncoder().fit_transform)
     ohe=OneHotEncoder()
     cat_data=ohe.fit_transform(cat_data)
@@ -35,12 +38,10 @@ def categorical_features_encoding(cat_data):
                     'draw_size_4',
                     'draw_size_5',
                     'draw_size_6',
-                    'winner_hand_1',
-                    'winner_hand_2',
-                    'winner_hand_3',
-                    'loser_hand_1',
-                    'loser_hand_2',
-                    'loser_hand_3',
+                    'draw_size_7',
+                    'draw_size_8',
+                    'draw_size_9',
+                    'draw_size_10',
                     'best_of_3',
                     'best_of_5',
                     'round_1',
@@ -51,7 +52,12 @@ def categorical_features_encoding(cat_data):
                     'round_6',
                     'round_7',
                     'round_8',
+                    'player1_hand_1',
+                    'player1_hand_2',
+                    'player1_hand_3',
+                    'player2_hand_1',
+                    'player2_hand_2',
+                    'player2_hand_3'
                   ]
     cat_data=cat_data.astype(int)
     return cat_data
-
