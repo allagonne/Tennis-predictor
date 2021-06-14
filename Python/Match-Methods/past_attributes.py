@@ -191,11 +191,11 @@ def features_duo_creation(past_matches, player1, player2):
 
     ##### General duo features
     # % of the previous matches between these 2 players won by each.
-    duo1=past_matches[(past_matches.winner_name==player1)&(past_matches.loser_name==player2)]    
-    duo2=past_matches[(past_matches.winner_name==player2)&(past_matches.loser_name==player1)]    
+    duo1=past_matches[(past_matches.winner_name==player1)&(past_matches.loser_name==player2)]    #H2H of: Player 1 won and Player 2 lost
+    duo2=past_matches[(past_matches.winner_name==player2)&(past_matches.loser_name==player1)]    #H2H of: Player 2 won and Player 1 lost
     duo=pd.concat([duo1,duo2],0)
-    features_duo+=[len(duo),len(duo1),len(duo2)]
-    per_victory_player1=100*len(duo1)/len(duo) if len(duo)>0 else np.nan
+    features_duo+=[len(duo),len(duo1),len(duo2)] #total games, games player1 won, games player2 won
+    per_victory_player1=100*len(duo1)/len(duo) if len(duo)>0 else np.nan #winrate_player1
     features_duo.append(per_victory_player1)
 
 
