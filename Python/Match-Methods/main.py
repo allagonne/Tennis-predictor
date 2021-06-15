@@ -66,7 +66,7 @@ indices = df[(df.tourney_date>beg)&(df.tourney_date<=end)].index
 
 ## Building of attributes based on the past matches
 
-features_player  = features_past_generation(120,360,df,indices)
+features_player  = features_past_generation(120,1000,df,indices)
 features_player.to_csv(three_up + "/Data/Generated csv/features_player.csv",index=False)
 
 ################################################################################
