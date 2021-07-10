@@ -11,7 +11,6 @@ import glob
 one_up = path.abspath(path.join(__file__ ,".."))
 two_up =  path.abspath(path.join(__file__ ,"../.."))
 three_up =  path.abspath(path.join(__file__ ,"../../.."))
-print()
 #remember to pip3 install --upgrade pip before 'pip install -r requirements.txt'
 
 
@@ -21,7 +20,7 @@ print()
 
 ## Dataset presentation (Jeff Sackman tennis_ATP matches)
 
-    path = three_up + '/Data/atp_matches*.csv'
+path = three_up + '/Data/atp_matches*.csv'
 filenames=list(glob.glob(path))
 dfs = []
 for filename in filenames:
