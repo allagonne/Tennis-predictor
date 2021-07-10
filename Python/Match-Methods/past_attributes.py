@@ -2,27 +2,12 @@ import pandas as pd
 import numpy as np
 import datetime
 
-# This is here for testing, should be errased later:
-# path = '/home/pupulvuh/Code/tennis/tennisproyect/Tennis-predictor/Data/test.csv'
-# df = pd.read_csv(path)
-
-# df['tourney_date'] = pd.to_datetime(df['tourney_date'], format='%Y%m%d')
-# df = df.sort_values(['tourney_date', 'match_num'])
-# df = df.reset_index(drop=True)
-# beg = datetime.datetime(2020,3,1) 
-# end = df.tourney_date.iloc[-1]
-# indices = df[(df.tourney_date>beg)&(df.tourney_date<=end)].index
-
 
 ###################### FEATURES BASED ON THE past_matches OF THE PLAYERS ###############
 def features_past_generation(days_all,
-                                     days_h2h,
-                                     data,
-                                     indices):
-
-
-
-
+                              days_h2h,
+                              data,
+                              indices):
     matches_outcomes=[]
     matches_h2h=[]
     #This loop creates the data_frame
@@ -200,42 +185,4 @@ def features_duo_creation(past_matches, player1, player2):
 
 
     return features_duo
-
-# def recent_features(match,past_matches, player1, player2):
-#     ##### Match information extraction (according to the outcome)
-#     date=match.Date
-#     ##### Last matches
-#     wins=past_matches[past_matches.Winner==player]    
-#     losses=past_matches[past_matches.Loser==player]    
-#     todo=pd.concat([wins,losses],0)
-#     if len(todo)==0:
-#         return [np.nan]*7
-#     # Month since last game won
-#     dslm=(date-todo.iloc[-1,:].Date).month
-#     # Was the last match won ?
-#     wlmw=int(todo.iloc[-1,:].Winner==player)
-#     # Ranking of the last player played
-#     rlpp=todo.iloc[-1,:].winner_rank_points
-#     # Number of sets of last match played
-#     nslmp=todo.iloc[-1,:]['Best of']
-#     # Number of sets won during last match played
-#     nswlmp=todo.iloc[-1,:]['Wsets'] if wlmw==1 else todo.iloc[-1,:]['Lsets']
-#     # Injuries - iitp + injury last match
-#     if len(losses)!=0:
-#         ilm=int(losses.iloc[-1,:].Comment=="Completed")
-#         iitp=1 if (losses.Comment!="Completed").sum()>0 else 0
-#     else:
-#         ilm=np.nan
-#         iitp=np.nan
-#     features_recent=[dslm,wlmw,rlpp,nslmp,nswlmp,ilm,iitp]
-#     return features_recent
-
-
-# This is here for testing, should be errased later:
-
-
-# features_player  = features_past_generation(features_player_creation,50,"playters_stats",df,indices)
-# features_player.to_csv("/home/pupulvuh/Code/tennis/tennisproyect/Tennis-predictor/Data/Generated csv/features_player.csv",index=False)
-
-# df.to_csv("/home/pupulvuh/Code/tennis/tennisproyect/Tennis-predictor/Data/Generated csv/testings.csv",index=False)
 
